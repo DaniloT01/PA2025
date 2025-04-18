@@ -1,0 +1,10 @@
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\bin\Debug\EnumEjemplo.exe.config
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\bin\Debug\EnumEjemplo.exe
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\bin\Debug\EnumEjemplo.pdb
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.csproj.AssemblyReference.cache
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.Form1.resources
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.Properties.Resources.resources
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.csproj.GenerateResource.cache
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.exe
+C:\Users\DANILO\source\repos\EnumEjemplo\EnumEjemplo\obj\Debug\EnumEjemplo.pdb
