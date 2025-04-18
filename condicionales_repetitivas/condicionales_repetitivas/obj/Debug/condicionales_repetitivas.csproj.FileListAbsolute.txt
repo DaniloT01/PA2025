@@ -1,0 +1,7 @@
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\bin\Debug\condicionales_repetitivas.exe.config
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\bin\Debug\condicionales_repetitivas.exe
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\bin\Debug\condicionales_repetitivas.pdb
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\obj\Debug\condicionales_repetitivas.csproj.AssemblyReference.cache
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\obj\Debug\condicionales_repetitivas.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\obj\Debug\condicionales_repetitivas.exe
+C:\Users\DANILO\source\repos\condicionales_repetitivas\condicionales_repetitivas\obj\Debug\condicionales_repetitivas.pdb

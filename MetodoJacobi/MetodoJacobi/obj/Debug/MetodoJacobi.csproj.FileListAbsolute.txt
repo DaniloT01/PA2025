@@ -1,0 +1,10 @@
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\bin\Debug\MetodoJacobi.exe.config
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\bin\Debug\MetodoJacobi.exe
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\bin\Debug\MetodoJacobi.pdb
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.csproj.AssemblyReference.cache
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.Form1.resources
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.Properties.Resources.resources
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.csproj.GenerateResource.cache
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.exe
+C:\Users\DANILO\source\repos\MetodoJacobi\MetodoJacobi\obj\Debug\MetodoJacobi.pdb
