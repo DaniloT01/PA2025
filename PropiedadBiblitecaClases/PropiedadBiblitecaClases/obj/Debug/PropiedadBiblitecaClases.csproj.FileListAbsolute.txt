@@ -1,0 +1,7 @@
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\bin\Debug\PropiedadBiblitecaClases.exe.config
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\bin\Debug\PropiedadBiblitecaClases.exe
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\bin\Debug\PropiedadBiblitecaClases.pdb
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\obj\Debug\PropiedadBiblitecaClases.csproj.AssemblyReference.cache
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\obj\Debug\PropiedadBiblitecaClases.csproj.CoreCompileInputs.cache
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\obj\Debug\PropiedadBiblitecaClases.exe
+C:\Users\DANILO\source\repos\PropiedadBiblitecaClases\PropiedadBiblitecaClases\obj\Debug\PropiedadBiblitecaClases.pdb
